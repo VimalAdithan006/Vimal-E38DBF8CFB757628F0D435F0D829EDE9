@@ -1,8 +1,8 @@
 # NM-Python-challenges
 
 # Unit_1 
-    challenge 1.1
-    challenge 1.2
+   challenge 1.1
+   challenge 1.2
 
 # Unit_2 
    challenge 2.1
